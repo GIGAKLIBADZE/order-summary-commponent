@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-Solution URL: [https://github.com/GigaKlibadze/order-summary-component]
-Live Site URL: [https://gigaklibadze.github.io/order-summary-component/]
+Solution URL: [https://github.com/GIGAKLIBADZE/order-summary-commponent]
+Live Site URL: [https://gigaklibadze.github.io/order-summary-commponent/]
 
 ### Built with
 
